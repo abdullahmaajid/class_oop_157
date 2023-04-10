@@ -23,6 +23,7 @@ public:
 		cin >> sks;
 		cout << "\n Masukkan Kode MK";
 		cin >> kode;
-
+		cout << "\n Masukkan Nama MK";
+		cin >> namaMK;
 	}
 };
