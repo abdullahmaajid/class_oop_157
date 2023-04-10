@@ -16,5 +16,10 @@ private:
 	int sks;
 	string kode;
 	string namaMK;
+public:
+	void input MK() {
 
+		cout << "\n Masukkan Jumlah SKS = "
+			cin >> sks;
+	}
 };
