@@ -19,7 +19,10 @@ private:
 public:
 	void input MK() {
 
-		cout << "\n Masukkan Jumlah SKS = "
-			cin >> sks;
+		cout << "\n Masukkan Jumlah SKS = ";
+		cin >> sks;
+		cout << "\n Masukkan Kode MK";
+		cin >> kode;
+
 	}
 };
